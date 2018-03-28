@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>AzureCloudSync.SyncEngine</AssemblyName>
+    <RootNamespace>AzureCloudSync.SyncEngine</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AzureCloudUtility\AzureCloudUtility.csproj" />
+    <ProjectReference Include="..\StorageFileInfo\StorageFileInfo.csproj" />
+  </ItemGroup>
+
+</Project>

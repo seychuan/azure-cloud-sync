@@ -3,7 +3,7 @@ using Newtonsoft.Json.Linq;
 using System;
 using System.IO;
 
-namespace AzureCloudSync.StorageFileInfo
+namespace AzureCloudSync.FileInfo
 {
     public class FileInfoJsonConverter : JsonConverter
     {

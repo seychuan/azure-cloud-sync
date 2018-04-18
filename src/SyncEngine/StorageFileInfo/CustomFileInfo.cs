@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace AzureCloudSync.StorageFileInfo
+namespace AzureCloudSync.SyncEngine.StorageFileInfo
 {
-    public class StorageFileInfo
+    public class CustomFileInfo
     {
         public string OriginalPath { get; set; }
         public string FullPath { get; set; }

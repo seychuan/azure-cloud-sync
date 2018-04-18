@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <AssemblyName>AzureCloudSync.StorageFileInfo</AssemblyName>
-    <RootNamespace>AzureCloudSync.StorageFileInfo</RootNamespace>
+    <AssemblyName>AzureCloudSync.FileInfo</AssemblyName>
+    <RootNamespace>AzureCloudSync.FileInfo</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
